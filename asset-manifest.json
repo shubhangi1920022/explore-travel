@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/explore-travel/static/css/main.08373880.css",
+    "main.js": "/explore-travel/static/js/main.12435891.js",
+    "index.html": "/explore-travel/index.html",
+    "main.08373880.css.map": "/explore-travel/static/css/main.08373880.css.map",
+    "main.12435891.js.map": "/explore-travel/static/js/main.12435891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08373880.css",
+    "static/js/main.12435891.js"
+  ]
+}
